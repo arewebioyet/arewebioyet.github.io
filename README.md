@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Are we bio yet?
+🎉 Yes! 🎉
 
-You can use the [editor on GitHub](https://github.com/arewebioyet/arewebioyet.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+(but many projects are still work-in-progress)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio](https://crates.io/crates/bio), along with a plethora of crates for specific tasks.
 
-### Markdown
+## Ecosystem
+Here you can find all sorts of bioinformatics crates that were created by the Rust community:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [bio](https://crates.io/crates/bio) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
+* [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
+* [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
+* [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arewebioyet/arewebioyet.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contributing
+You can use the [editor on GitHub](https://github.com/arewebioyet/arewebioyet.github.io/edit/main/README.md) to contribute to this page. Feel free to list new bioinformatics crates! Of course, you can also contribute to the ecosystem by writing a new Rust crate.
