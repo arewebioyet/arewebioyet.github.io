@@ -9,7 +9,7 @@ The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio
 Here you can find all sorts of bioinformatics crates that were created by the Rust community:
 
 * [bio](https://crates.io/crates/bio) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
-* [htsget-rs](https://github.com/chris-zen/htsget-rs) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
+* [htsget-rs](https://github.com/umccr/htsget-rs) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
 * [noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
