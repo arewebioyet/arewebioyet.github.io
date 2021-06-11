@@ -9,6 +9,7 @@ The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio
 Here you can find all sorts of bioinformatics crates that were created by the Rust community:
 
 * [bio](https://crates.io/crates/bio) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
+* [debruijn](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
 * [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
