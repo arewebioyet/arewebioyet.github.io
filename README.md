@@ -12,7 +12,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 * [htsget-rs](https://github.com/umccr/htsget-rs) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
-* [noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust
+* [noodles](https://github.com/zaeleus/noodles) - Pure Rust bioinformatics I/O libraries.
 * [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
 
 ## Contributing
