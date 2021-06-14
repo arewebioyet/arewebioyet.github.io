@@ -6,7 +6,6 @@ defaults:
       path: ""
     values:
       layout: single
-      classes: wide
 
 paginate: 1
 
