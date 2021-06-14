@@ -1,5 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 
+layout: single
+classes: wide
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
