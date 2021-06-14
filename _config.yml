@@ -1,12 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-    values:
-      layout: single
-
 paginate: 1
 
 # Plugins (previously gems:)
