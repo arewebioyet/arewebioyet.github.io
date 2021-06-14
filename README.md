@@ -1,9 +1,3 @@
----
-layout: single
-classes:
-  - wide
----
-
 # Are we bio yet?
 
 🎉 Yes! 🎉
