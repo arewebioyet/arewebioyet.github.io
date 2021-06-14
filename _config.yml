@@ -1,7 +1,13 @@
 remote_theme: mmistakes/minimal-mistakes
 
-layout: single
-classes: wide
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
 
 # Plugins (previously gems:)
 plugins:
