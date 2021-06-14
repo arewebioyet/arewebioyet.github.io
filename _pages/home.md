@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 # Are we bio yet?
