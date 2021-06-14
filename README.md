@@ -12,10 +12,11 @@ The Rust bioinformatics ecosystem contains general, easy-to-use crates like [bio
 Here you can find all sorts of bioinformatics crates that were created by the Rust community:
 
 * [bio](https://crates.io/crates/bio) - Implementations of many useful bioinformatics data structures and algorithms, including pattern matching, alignment, suffix arrays, BWT, FM-Index, and parsers for common file types.
-* [debruijn](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
-* [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [coitrees](https://crates.io/crates/coitrees) - Cache oblivious interval tree implementation for very fast overlap queries of a static set of integer intervals, with genomic intervals in mind.
+* [debruijn](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
+* [htsget-rs](https://github.com/umccr/htsget-rs) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
+* [noodles](https://github.com/zaeleus/noodles) - Pure Rust bioinformatics I/O libraries.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
 
