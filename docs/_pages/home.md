@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Are we bio yet?
