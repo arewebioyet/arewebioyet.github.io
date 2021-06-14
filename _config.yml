@@ -8,6 +8,8 @@ defaults:
       layout: single
       classes: wide
 
+paginate: 1
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
