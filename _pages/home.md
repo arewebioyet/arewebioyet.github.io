@@ -43,4 +43,4 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 
 ## Contributing
 
-You can use the [editor on GitHub](https://github.com/arewebioyet/arewebioyet.github.io/edit/main/README.md) to contribute to this page. Feel free to list new bioinformatics crates! Of course, you can also contribute to the ecosystem by writing a new Rust crate.
+You can use the [editor on GitHub](https://github.com/arewebioyet/arewebioyet.github.io/edit/main/_pages/home.md) to contribute to this page. Feel free to list new bioinformatics crates! Of course, you can also contribute to the ecosystem by writing a new Rust crate.
