@@ -23,3 +23,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+include:
+  - .htacces
+  - _pages
