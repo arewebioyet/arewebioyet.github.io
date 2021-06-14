@@ -1,9 +1,8 @@
 ---
+title: Are we bio yet?
 layout: single
 permalink: /
 ---
-
-# Are we bio yet?
 
 🎉 Yes! 🎉
 
