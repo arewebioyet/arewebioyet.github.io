@@ -1,3 +1,10 @@
+---
+layout: splash
+classes:
+  - landing
+  - wide
+---
+
 # Are we bio yet?
 
 🎉 Yes! 🎉
