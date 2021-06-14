@@ -29,14 +29,13 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 
 * [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) - A suite of tools for processing single-cell sequencing data.
 * [bcl2fastr](https://github.com/czbiohub/bcl2fastr) - Faster bcl2fastq implementation.
+* [finch](https://github.com/onecodex/finch-rs) - A genomic MinHashing implementation.
 * [noodles-squab](https://github.com/zaeleus/noodles-squab) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
 * [perbase](https://crates.io/crates/perbase) - A highly parallelized utility for generating per-base level metrics.
 * [prosolo](https://github.com/ProSolo/prosolo) - A variant caller for multiple displacement amplified DNA sequencing data from diploid single cells
-* [rust-mbdg](https://github.com/ekimb/rust-mdbg) - An ultra-fast minimizer-space de Bruijn graph (mdBG) implementation, geared towards the assembly of long and accurate reads such as PacBio HiFi.
+* [rust-mdbg](https://github.com/ekimb/rust-mdbg) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 * [sourmash](https://github.com/dib-lab/sourmash) - Quickly search, compare, and analyze genomic and metagenomic data sets.
 * [varlociraptor](https://crates.io/crates/varlociraptor) - Varlociraptor implements a novel, unified fully uncertainty-aware approach to genomic variant calling in arbitrary scenarios.
-* [finch](https://github.com/onecodex/finch-rs) - A genomic MinHashing implementation.
-* [rust-mdbg](https://github.com/ekimb/rust-mdbg) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 
 ## Contributing
 
