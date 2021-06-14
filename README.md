@@ -1,7 +1,6 @@
 ---
-layout: splash
+layout: single
 classes:
-  - landing
   - wide
 ---
 
