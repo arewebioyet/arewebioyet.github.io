@@ -16,6 +16,8 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
+* [fastq-rs](https://github.com/aseyboldt/fastq-rs) - A fast parser for FASTQ.
+* [seq_io](https://github.com/markschl/seq_io) - FASTA and FASTQ parsing and writing in Rust.
 
 ### Tools
 
@@ -27,6 +29,8 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 * [prosolo](https://github.com/ProSolo/prosolo) - A variant caller for multiple displacement amplified DNA sequencing data from diploid single cells
 * [sourmash](https://github.com/dib-lab/sourmash) - Quickly search, compare, and analyze genomic and metagenomic data sets.
 * [varlociraptor](https://crates.io/crates/varlociraptor) - Varlociraptor implements a novel, unified fully uncertainty-aware approach to genomic variant calling in arbitrary scenarios.
+* [finch](https://github.com/onecodex/finch-rs) - A genomic MinHashing implementation.
+* [rust-mdbg](https://github.com/ekimb/rust-mdbg) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 
 ## Contributing
 
