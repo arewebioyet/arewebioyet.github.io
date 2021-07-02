@@ -32,6 +32,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 Here you can find all sorts of bioinformatics tools that were created by the Rust community:
 
 * [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) - A suite of tools for processing single-cell sequencing data.
+* [bamtofastq](https://github.com/10XGenomics/bamtofastq) - Tool for converting 10x BAMs produced back into to FASTQ files.
 * [bcl2fastr](https://github.com/czbiohub/bcl2fastr) - Faster bcl2fastq implementation.
 * [finch](https://github.com/onecodex/finch-rs) - A genomic MinHashing implementation.
 * [noodles-squab](https://github.com/zaeleus/noodles-squab) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
