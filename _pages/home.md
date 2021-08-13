@@ -38,6 +38,7 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 * [noodles-squab](https://github.com/zaeleus/noodles-squab) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
 * [perbase](https://crates.io/crates/perbase) - A highly parallelized utility for generating per-base level metrics.
 * [prosolo](https://github.com/ProSolo/prosolo) - A variant caller for multiple displacement amplified DNA sequencing data from diploid single cells
+* [rasusa](https://github.com/mbhall88/rasusa) - **Ra**ndomly **su**b**sa**mple sequencing reads to a specified coverage.
 * [rust-mdbg](https://github.com/ekimb/rust-mdbg) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 * [sourmash](https://github.com/dib-lab/sourmash) - Quickly search, compare, and analyze genomic and metagenomic data sets.
 * [varlociraptor](https://crates.io/crates/varlociraptor) - Varlociraptor implements a novel, unified fully uncertainty-aware approach to genomic variant calling in arbitrary scenarios.
