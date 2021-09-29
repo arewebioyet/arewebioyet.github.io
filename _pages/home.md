@@ -21,6 +21,7 @@ Here you can find all sorts of bioinformatics crates that were created by the Ru
 * [debruijn](https://crates.io/crates/debruijn) - De Bruijn graph construction & path compression libraries.
 * [htsget-rs](https://github.com/umccr/htsget-rs) - GA4GH's [htsget](https://samtools.github.io/hts-specs/htsget.html) implementation.
 * [needletail](https://crates.io/crates/needletail) - Fast FASTX parsing and k-mer methods in Rust.
+* [niffler](https://github.com/luizirber/niffler) - Simple and transparent support for compressed files. 
 * [noodles](https://github.com/zaeleus/noodles) - Pure Rust bioinformatics I/O libraries.
 * [rust-htslib](https://crates.io/crates/rust-htslib) - Provides HTSlib bindings and a high level Rust API for reading and writing BAM files.
 * [triple_accel](https://crates.io/crates/triple_accel) - Rust edit distance routines accelerated using SIMD. Supports fast Hamming, Levenshtein, restricted Damerau-Levenshtein, etc. distance calculations and string search.
@@ -41,6 +42,7 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 * [rust-mdbg](https://github.com/ekimb/rust-mdbg) - Minimizer-space de Bruijn graphs (mdBG) implementation for whole-genome assembly.
 * [sourmash](https://github.com/dib-lab/sourmash) - Quickly search, compare, and analyze genomic and metagenomic data sets.
 * [varlociraptor](https://crates.io/crates/varlociraptor) - Varlociraptor implements a novel, unified fully uncertainty-aware approach to genomic variant calling in arbitrary scenarios.
+* [yacrd](https://github.com/natir/yacrd) - Yet Another Chimeric Read Detector for long reads.
 
 ## Contributing
 
