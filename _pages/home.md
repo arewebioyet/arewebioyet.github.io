@@ -35,6 +35,7 @@ Here you can find all sorts of bioinformatics tools that were created by the Rus
 * [bamtofastq](https://github.com/10XGenomics/bamtofastq) - Tool for converting 10x BAMs produced back into to FASTQ files.
 * [bcl2fastr](https://github.com/czbiohub/bcl2fastr) - Faster bcl2fastq implementation.
 * [finch](https://github.com/onecodex/finch-rs) - A genomic MinHashing implementation.
+* [fmlrc2](https://crates.io/crates/fmlrc) - A tool for correcting long, noisy reads from short reads
 * [noodles-squab](https://github.com/zaeleus/noodles-squab) - Noodles squab performs gene expression quantification by counting the number of aligned records that intersects a set of features. Output can be the raw counts or normalized counts in TPM (transcripts per million) or FPKM (fragments per kilobase per million mapped reads).
 * [perbase](https://crates.io/crates/perbase) - A highly parallelized utility for generating per-base level metrics.
 * [prosolo](https://github.com/ProSolo/prosolo) - A variant caller for multiple displacement amplified DNA sequencing data from diploid single cells
